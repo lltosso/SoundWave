@@ -1,6 +1,6 @@
 import './header.css'
-import Nav from '../Nav/Nav'
-import img from '../../assets/images/logo.png'
+import Nav from '../../Atomos/Nav/Nav'
+import img from '../../../assets/images/logo.png'
 
 function Header({title}) {
     return (
