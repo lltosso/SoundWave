@@ -9,7 +9,7 @@ function Nav() {
   Discover
 </li>
 <li>
-  Join
+  Joiin
 </li>
   </ul>
   
