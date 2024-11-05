@@ -1,7 +1,10 @@
 .ul{
     display:flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    gap: 50px;
     list-style: none;
+    color: white;
+    padding: 40px;
+    font-size: 1.5em;
     
 }

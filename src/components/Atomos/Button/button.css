@@ -1,0 +1,19 @@
+.btn-1 {
+    background-color: #1762a7;
+    color: white;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    border: none;
+   
+   
+
+}
+
+.btn-1:focus {
+    background-color: #2796ff;
+}
+
+.btn-1:hover {
+    background-color: #2180d8;
+}

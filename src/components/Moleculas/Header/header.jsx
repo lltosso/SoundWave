@@ -4,15 +4,16 @@ import img from '../../../assets/images/logo.png'
 
 function Header({title}) {
     return (
-        <>
-        <div>
+        <div className='clase1'>
+
+        <div className='soundwave'>
         <img src={img}/>
-        <h1>{title}</h1>
+        <p>{title}</p>
         </div>
         <Nav/>
        
 
-        </>
+        </div>
 
     )
 }
