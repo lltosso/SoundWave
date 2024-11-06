@@ -3,6 +3,7 @@ import Nav from './components/Atomos/Nav/Nav'
 import Paginasound from './components/PaginaSound/Paginasound'
 import './App.css'
 import Button from './components/Atomos/Button/button'
+import SectionDiscover from './components/Organismos/SectionDiscover/SectionDiscover'
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
     <Header title="Soundwave"/>
    
   <Paginasound/>
+  <SectionDiscover/>
   
     </div>
   )

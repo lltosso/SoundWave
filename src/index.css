@@ -1,0 +1,42 @@
+body,html {
+    background-color: #2f303a; 
+    overflow: hidden;
+     
+}
+.circle1 {
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    background-color: #bc3a801a;
+   position: absolute;
+   bottom: 125px;
+   left: 20px;
+   
+   
+    
+}
+
+
+.circle2 {
+    border-radius: 50%;
+    height: 450px;
+    width: 450px;
+    background-color: #3457b21a;
+    position: absolute;
+   bottom: 350px;
+   left: 550px;
+    
+}
+
+.circle3 {
+    border-radius: 50%;
+    height: 750px;
+    width: 750px;
+    background-color: #3457b21a;
+    position: absolute;
+    top: 500px;
+    right: -250px;
+    
+}
+
+
